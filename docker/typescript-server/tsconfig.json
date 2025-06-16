@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "es6",
+    "rootDir": "./",
+    "moduleResolution": "bundler",
+    "types": ["node", "express"],
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitThis": true,
+    "skipLibCheck": true,
+    "outDir": "./dist"
+  }
+}
